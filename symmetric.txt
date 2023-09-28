@@ -1,0 +1,289 @@
+   97...	{a: a }  
+   98...	{b: b }  
+   99...	{c: c }  
+  100...	{d: d }  
+  101...	{e: e }  
+  102...	{f: f }  
+  103...	{g: g }  
+  104...	{h: h }  
+  105...	{i: i }  
+  106...	{j: j }  
+  107...	{k: k }  
+  108...	{l: l }  
+  109...	{m: m }  
+  110...	{n: n }  
+  111...	{o: o }  
+  112...	{p: p }  
+  113...	{q: q }  
+  114...	{r: r }  
+  115...	{s: s }  
+  116...	{t: t }  
+  117...	{u: u }  
+  118...	{v: v }  
+  119...	{w: w }  
+  120...	{x: x }  
+  121...	{y: y }  
+  122...	{z: z }  
+  194...	{aa: aa }  
+  195...	{ab: ab, ba }  
+  197...	{ad: ad, da }  
+  198...	{ae: ae, ea }  
+  201...	{ah: ah, ha }  
+  202...	{ee: ee }  
+  205...	{eh: eh, he }  {di: di, id }  
+  206...	{am: am, ma }  
+  207...	{an: an, na }  
+  209...	{bo: bo, ob }  
+  210...	{em: em, me }  
+  211...	{en: en, ne }  {do: do, od }  {ar: ar, ra }  
+  212...	{eo: eo, oe }  {as: as, sa }  
+  213...	{at: at, ta }  
+  214...	{im: im, mi }  
+  215...	{ho: ho, oh }  {er: er, re }  
+  216...	{io: io, oi }  {aw: aw, wa }  
+  218...	{ko: ko, ok }  
+  220...	{mo: mo, om }  {is: is, si }  {gu: gu, ug }  
+  221...	{no: no, on }  {it: it, ti }  
+  222...	{oo: oo }  
+  223...	{op: op, po }  
+  226...	{os: os, so }  {mu: mu, um }  
+  227...	{nu: nu, un }  
+  230...	{ow: ow, wo }  
+  232...	{oy: oy, yo }  
+  233...	{oz: oz, zo }  
+  292...	{aab: aba }  
+  293...	{abb: bab }  
+  294...	{aad: ada }  
+  295...	{abd: bad, dab }  
+  297...	{add: dad }  {aag: aga }  
+  298...	{abg: bag, gab }  {aah: aha }  
+  299...	{bde: bed, deb }  {aai: aia }  
+  300...	{adg: dag, gad }  
+  301...	{adh: dah, had }  {bbi: bib }  
+  302...	{aal: ala }  
+  303...	{agg: gag }  {def: def, fed }  {bdi: bid, dib }  
+  304...	{abm: bam, mab }  {aan: ana }  
+  305...	{ahh: hah }  {ddi: did }  {adl: dal, lad }  {acm: cam, mac }  {abn: ban, nab }  
+  306...	{adm: dam, mad }  {bgi: big, gib }  {ael: ale, ela }  {abo: abo, oba }  
+  307...	{ahj: haj, jah }  {bbo: bob }  
+  308...	{agl: gal, lag }  {aen: ean, nae }  {dgi: dig, gid }  {ado: ado, oda }  
+  309...	{ahl: hal, lah }  {agm: gam, mag }  {eek: eke }  {del: del, led }  {adp: dap, pad }  {bdo: bod, dob }  {ben: ben, neb }  {aas: asa }  {abr: arb, bra }  
+  310...	{agn: gan, nag }  {fgi: fig, gif }  {eel: eel, lee }  {cdo: cod, doc }  
+  311...	{ggi: gig }  {eem: eme }  {ddo: dod }  {den: den, ned }  {abt: bat, tab }  
+  312...	{egl: gel, leg }  {een: een, ene, nee }  {ads: das, sad }  {cep: cep, pec }  {bgo: bog, gob }  {aav: ava }  {aer: are, ear, era, rae }  
+  313...	{akm: kam, mak }  {ahp: hap, pah }  {egm: gem, meg }  {efn: fen, nef }  {afr: far, raf }  {aes: eas, sae }  {bbu: bub }  {bho: boh, hob }  {bin: bin, nib }  {aaw: awa }  
+  314...	{alm: lam, mal }  {bio: ibo, obi }  {agr: gar, rag }  {dgo: dog, god }  {dim: dim, mid }  {aet: ate, eat, eta, tae }  
+  315...	{amm: mam }  {ags: gas, sag }  {dho: doh, hod }  {din: din, nid }  {bdu: bud, dub }  
+  316...	{amn: man, nam }  {gil: gil, lig }  {agt: gat, tag }  {eer: eer, ere, ree }  {adw: daw, wad }  {aev: ave, eva }  {air: air, ria }  
+  317...	{ann: nan }  {alp: lap, pal }  {ajr: jar, raj }  {ggo: gog }  {ddu: dud }  
+  318...	{amp: map, pam }  {elm: lem, mel }  {ekn: ken, nek }  {bis: bis, sib }  
+  319...	{anp: nap, pan }  {ajt: jat, taj }  {hho: hoh }  {ehr: her, reh }  {eft: fet, tef }  {bit: bit, tib }  
+  320...	{amr: mar, ram }  {als: las, sal }  {gip: gip, pig }  {egt: get, teg }  {eev: eve }  {ehs: ehs, she }  {dmo: dom, mod }  {dis: dis, sid }  {dew: dew, wed }  {cit: cit, tic }  
+  321...	{app: pap }  {ams: mas, sam }  {eew: ewe }  {dno: don, nod }  {dit: dit, tid }  
+  322...	{ans: nas, san }  {amt: mat, tam }  {ahy: hay, yah }  
+  323...	{apr: par, rap }  {enp: nep, pen }  {ant: nat, tan }  {imm: mim }  {iln: lin, nil }  {alv: lav, val }  {eey: eye }  {dop: dop, pod }  {bor: bor, bro, orb, rob }  
+  324...	{aps: pas, sap }  {aot: oat, tao }  {hmo: mho, ohm }  {els: les, sel }  {git: git, tig }  {cor: cor, roc }  {bos: bos, sob }  
+  325...	{epp: pep }  {apt: pat, tap }  {elt: let, tel }  {aky: kay, yak }  {hhu: huh }  {hno: hon, noh }  {dor: dor, rod }  {cos: cos, soc }  {bnu: bun, nub }  
+  326...	{ars: ras, sar }  {hoo: hoo, oho, ooh }  {dos: dos, sod }  
+  327...	{art: rat, tar }  {epr: per, rep }  {inp: nip, pin }  {ent: net, ten }  {amy: may, yam }  {hop: hop, poh }  {for: fro, orf }  {dot: dot, tod }  
+  328...	{ast: sat, tas }  {apw: paw, wap }  {imr: mir, rim }  
+  329...	{att: tat }  {ipp: pip }  {mmo: mom }  {ims: mis, sim }  {emw: mew, wem }  {ilt: lit, til }  {gmu: gum, mug }  {dpu: dup, pud }  {bru: bur, rub }  
+  330...	{arw: raw, war }  {apy: pay, yap }  {ins: nis, sin }  {enw: new, wen }  {hos: hos, soh }  {got: got, tog }  {cru: cur, ruc }  {bsu: bus, sub }  {boy: boy, yob }  
+  331...	{asw: saw, was }  {nno: non }  {int: nit, tin }  {moo: moo, oom }  {elz: lez, zel }  {btu: but, tub }  
+  332...	{atw: taw, wat }  {est: set, tes }  {ips: pis, sip }  {mop: mop, pom }  {gpu: gup, pug }  {ary: ayr, rya }  
+  333...	{ett: tet }  {ipt: pit, tip }  
+  334...	{hss: shs }  {mor: mor, rom }  {los: los, sol }  {gru: gur, rug }  
+  335...	{aww: waw }  {iss: sis }  {opp: pop }  {nor: nor, ron }  {mmu: mum }  
+  336...	{etw: tew, wet }  {ist: sit, tis }  {nos: nos, son }  {mot: mot, tom }  {gtu: gut, tug }  
+  337...	{awy: way, yaw }  {itt: tit }  {esy: sey, yes }  {nnu: nun }  {not: not, ton }  
+  338...	{ops: pos, sop }  {guv: guv, vug }  
+  339...	{opt: pot, top }  
+  340...	{itw: tiw, wit }  {now: now, won }  
+  341...	{ewy: wey, yew }  {ivv: viv }  {oss: sos }  {ort: rot, tor }  {ppu: pup }  {nru: nur, run }  {guy: guy, yug }  
+  342...	{opw: pow, wop }  {noy: noy, yon }  
+  343...	{ott: tot }  {ntu: nut, tun }  
+  344...	{psu: pus, sup }  
+  345...	{osw: sow, wos }  {ptu: put, tup }  
+  346...	{otw: tow, wot }  {sst: sts }  
+  347...	{ssu: sus }  {osy: soy, yos }  
+  349...	{izz: ziz }  {oww: wow }  {ttu: tut }  
+  350...	{tuu: utu }  {puy: puy, yup }  
+  390...	{aabb: abba }  
+  391...	{aabc: abac, caba }  
+  397...	{acde: dace, ecad }  
+  398...	{bbee: beeb }  
+  400...	{ccee: ecce }  
+  402...	{ddee: deed }  
+  404...	{abel: able, elba }  
+  406...	{ddei: deid, died }  
+  407...	{adem: edam, made }  {aabs: abas, saba }  
+  409...	{abdr: bard, drab }  
+  410...	{adil: dial, laid }  
+  411...	{defl: delf, fled }  {deem: deem, meed }  {addr: dard, drad }  {aalm: alma, amla }  {aagr: agar, raga }  
+  412...	{aamm: maam }  {abgr: brag, garb }  {aaln: alan, anal, lana, nala }  {aags: agas, saga }  
+  414...	{deil: deil, lied }  {deep: deep, peed }  {addu: daud, duad }  {adgr: darg, grad }  {aann: anan, anna, naan, nana }  {aajr: ajar, raja }  
+  415...	{aakr: arak, kara }  
+  416...	{eekk: keek }  {dein: dine, enid }  {deer: deer, reed }  {adhs: dahs, shad }  {abkr: bark, krab }  
+  417...	{eekl: keel, leek }  {dees: dees, seed }  {bdir: bird, drib }  
+  418...	{aams: maas, saam }  {eefr: feer, reef }  {bboo: boob }  
+  419...	{acmr: cram, marc }  {ceir: cire, eric }  
+  420...	{acms: macs, scam }  {aelr: laer, real }  {ahhs: hahs, shah }  {acnr: cran, narc }  {abns: bans, snab }  {adiv: avid, diva }  {aalv: aval, lava }  {adop: apod, dopa }  
+  421...	{eekp: keep, peek }  {eeir: eire, erie }  {demo: edom, mode }  {bblu: blub, bulb }  
+  422...	{eelp: leep, peel }  {aelt: leat, tael }  {deit: edit, tide }  {adlu: dual, laud }  
+  423...	{agmr: gram, marg }  {agls: gals, slag }  {efis: fies, seif }  {aens: anes, sena }  {ados: ados, soda }  
+  424...	{eenp: neep, peen }  {eiln: lien, neil }  {eelr: leer, reel }  {agnr: gnar, rang }  {fglo: flog, golf }  {dels: dels, sled }  {bens: bens, sneb }  {ailr: aril, lair, liar, lira, rail, rial }  {aent: ante, etna, neat, taen }  
+  425...	{ails: lias, sail }  {eels: eels, lees, seel, slee }  {aimr: amir, rima }  
+  426...	{eepp: peep }  {deor: oder, redo }  {eenr: neer, reen }  {eelt: leet, teel }  {agnt: gnat, tang }  {aenv: evan, nave }  {eems: emes, seme }  {dens: dens, sned }  {bkno: bonk, knob }  {abst: bats, stab }  {aims: amis, sima }  
+  427...	{eemt: meet, teem }  {adrt: dart, trad }  {ceps: ceps, spec }  {aers: ares, sera }  {aemx: amex, xema }  
+  428...	{bloo: lobo, obol }  {eilr: leir, riel }  {aknr: knar, rank }  {ggoo: goog }  {eent: eten, nete }  {bins: bins, snib }  {anno: anon, nona }  {abtu: abut, tuba }  
+  429...	{eeps: pees, seep }  {alpp: palp, plap }  {eils: lies, seil }  {agnw: gnaw, wang }  {aest: etas, sate }  {egor: ergo, ogre }  {eimr: emir, rime }  {bdru: burd, drub }  
+  430...	{elno: leon, noel }  {eenv: even, neve }  {aett: etat, tate }  {adrw: draw, ward }  {dhos: dohs, shod }  
+  431...	{airs: rias, sair }  {eers: rees, seer }  {agst: gats, stag }  {eimt: emit, time }  {dmoo: doom, mood }  {adsw: daws, swad }  
+  432...	{airt: rait, tiar }  {alps: pals, slap }  {floo: fool, loof }  {eilv: evil, live }  {eess: esse, sees }  {adry: dray, yard }  {bgru: burg, grub }  {bknu: bunk, knub }  {amos: amos, soma }  
+  433...	{amps: maps, spam }  {aist: itas, sati }  {gins: gins, snig }  {desu: deus, sued }  
+  434...	{anps: naps, pans, snap, span }  {ilno: lion, noil }  
+  435...	{ekps: keps, spek }  
+  436...	{enor: oner, reno }  {amrt: mart, tram }  {kkoo: kook }  {dery: drey, yerd }  {door: door, rood }  {dnos: dons, snod }  {anov: avon, nova }  {aksu: auks, skua }  
+  437...	{ahsy: shay, yahs }  {ilms: mils, slim }  {enos: enos, sone }  {dopr: dorp, prod }  {desy: deys, syed }  
+  438...	{aprs: raps, spar }  {anst: nats, stan }  {iknt: knit, tink }  {hoop: hoop, pooh }  {girt: girt, trig }  {enot: eton, note }  {bors: bros, sorb }  
+  439...	{apss: saps, spas }  {aprt: part, prat, tarp, trap }  {lmoo: loom, mool }  {ikps: kips, spik }  {iirs: iris, siri }  
+  440...	{ilps: pils, slip }  {apst: pats, spat, stap, taps }  {amsw: maws, swam }  {inor: iron, nori }  {glpu: gulp, plug }  {gopr: gorp, prog }  {flow: flow, wolf }  {bnsu: buns, snub }  {bost: bots, stob }  {alry: aryl, lyra }  
+  441...	{hoos: ohos, oohs, shoo, soho }  {eors: eros, sore }  
+  442...	{arst: rats, star }  {hops: pohs, shop }  {nnoo: noon }  {inps: nips, pins, snip, spin }  {enst: nets, sten }  {loop: loop, pool }  
+  443...	{imrs: rims, smir }  {apsw: paws, swap }  {gopu: ogpu, upgo }  {bosw: bows, swob }  
+  444...	{emsw: smew, wems }  {ilst: slit, tils }  {epst: pets, step }  {noop: noop, poon }  {knot: knot, tonk }  {gmsu: gums, smug }  {dorw: drow, word }  
+  445...	{apsy: spay, yaps }  {crsu: rucs, scur }  {moor: moor, room }  {loos: loos, sool }  {gnsu: gnus, guns, snug, sung }  
+  446...	{inst: snit, tins }  {oopp: oppo, poop }  {loot: loot, tool }  {elux: exul, luxe }  {bstu: buts, stub }  
+  447...	{astw: staw, swat, taws, wats }  {moot: moot, toom }  
+  448...	{ipst: spit, tips }  {oopr: poor, roop }  
+  450...	{irst: rits, stir }  
+  451...	{estw: stew, wets }  
+  452...	{aswy: sway, yaws }  {nost: snot, tons }  {essy: seys, syes }  
+  454...	{opst: pots, spot, stop, tops }  {oott: otto, toot }  
+  455...	{esuz: suez, zeus }  {nosw: snow, wons }  {mrsu: rums, smur }  
+  457...	{ortt: tort, trot }  {mstu: smut, tums }  {opsw: pows, swop }  
+  458...	{ostt: stot, tots }  {nstu: nuts, stun }  
+  460...	{ortw: trow, wort }  
+  461...	{ostw: stow, swot, tows, wots }  
+  503...	{abbco: bobac, cabob }  
+  505...	{acdel: decal, laced }  
+  506...	{addel: dedal, laded }  
+  510...	{aadfr: daraf, farad }  {aabln: alban, nabla }  
+  511...	{aaann: anana }  {adeil: ailed, delia }  
+  512...	{aadmm: madam }  {acein: caine, eniac }  
+  513...	{aaikk: kaiak }  
+  515...	{deeil: edile, elide }  
+  517...	{ademn: deman, named }  {adeir: aider, redia }  
+  518...	{aakkn: kanak }  {aeemn: amene, enema }  
+  520...	{adiln: ladin, nidal }  
+  521...	{ddeew: dewed }  {aabrs: arbas, sabra }  
+  522...	{aadrr: radar }  {aagns: nagas, sagan }  {aahms: amahs, shama }  
+  523...	{acepr: pacer, recap }  {aeglr: lager, regal }  {aainr: arian, naira }  
+  524...	{eegir: eiger, regie }  {adilr: drail, liard }  
+  525...	{deimn: denim, mined }  
+  526...	{cciiv: civic }  {acers: cares, serac }  
+  527...	{abest: sebat, tabes }  {aagss: sagas }  {eellm: lemel }  {admno: damon, nomad }  {aallu: alula }  
+  529...	{aakky: kayak }  {deils: delis, siled }  {deeps: deeps, speed }  
+  530...	{effor: offer, reffo }  {aakkz: kazak }  
+  531...	{deers: redes, seder }  {aemnr: namer, reman }  {adesv: devas, saved }  {deimt: demit, timed }  
+  532...	{beett: tebet }  {eefrr: refer }  {eekls: keels, sleek }  {deilv: devil, lived }  {bdetu: debut, tubed }  
+  533...	{aelps: elaps, spale }  {aamss: assam, massa }  
+  534...	{beirt: rebit, tiber }  {acmrs: marcs, scram }  {aikns: kisan, nasik }  {egmno: emong, gnome }  {ceirs: cires, seric }  
+  535...	{ahhss: shahs }  {acnrs: narcs, scran }  {aelrs: lares, seral }  
+  536...	{aelss: seals, slaes }  {eellv: level }  {eelpr: leper, repel }  
+  537...	{eelps: leeps, peels, sleep, speel }  {efirs: fires, serif }  {eegsu: euges, segue }  {adors: doras, sarod }  {acmsu: camus, sumac }  
+  538...	{eekrs: reeks, skeer }  {iimmn: minim }  {eglos: loges, segol }  {eelnv: leven, nevel }  
+  539...	{aikss: sakis, sikas }  {eelrs: reels, sleer }  {aeprs: reaps, spaer }  
+  540...	{aimrs: ramis, simar }  {dinor: nidor, rodin }  {deopt: depot, toped }  
+  541...	{eemss: seems, smees }  {eenrs: reens, sneer }  {eelst: leets, sleet, steel, teels }  {aknps: knaps, spank }  {agnst: gnats, stang }  {eilot: eliot, toile }  
+  542...	{acrtt: tcart, tract }  {eemst: meets, steem }  {eelrv: lever, revel }  {eenss: esnes, sense }  {adrst: darts, strad }  {aerrt: arret, terra }  
+  543...	{aerst: resat, taser }  {aknrs: krans, snark }  {aesss: asses, sessa }  
+  544...	{eentt: tenet }  {eilrt: relit, tiler }  {agnsw: gnaws, swang }  {dloor: drool, loord }  {aesst: asset, tessa }  
+  545...	{eimrt: remit, timer }  {bersu: rebus, suber }  {eensv: neves, seven }  {almru: larum, mural }  {adrsw: draws, sward }  
+  546...	{eerss: seres }  {bertu: rebut, tuber }  {eimst: emits, stime }  
+  547...	{amoss: samos, somas }  {eilsv: evils, slive }  {airst: airts, stria }  
+  548...	{ennot: nonet, tenon }  {ikkrs: kirks, skrik }  
+  549...	{anpss: snaps, spans }  {iimss: simis }  {ekoss: sekos, sokes }  
+  550...	{dirst: dirts, strid }  
+  551...	{amrst: smart, trams }  {enors: rones, senor }  {alrsu: larus, sural }  {eestv: evets, steve }  
+  552...	{eettv: tevet }  {eessx: sexes }  {aorss: saros, soras }  {doprs: dorps, sprod }  
+  553...	{eessy: sesey, yeses }  {enost: notes, seton }  {iknst: knits, stink }  {girst: girts, strig }  
+  554...	{ikpss: skips, spiks }  {iirss: siris }  {eoprt: repot, toper }  {aprst: parts, spart, sprat, strap, tarps, traps }  {lmoos: mools, sloom }  
+  555...	{apsst: spats, staps }  {lnoos: loons, snool }  {goprs: gorps, sprog }  
+  556...	{emrsu: mures, serum }  
+  557...	{inpss: snips, spins }  {loops: loops, pools, sloop, spool }  
+  558...	{arssu: sarus, suras }  {eprst: perts, strep }  {moops: moops, spoom }  
+  559...	{noops: noops, poons, snoop, spoon }  {knost: knots, stonk }  {dorsw: drows, sword }  
+  560...	{looss: solos }  {inrst: snirt, trins }  
+  561...	{arstw: straw, warts }  {loost: loots, sloot, stool, tools }  
+  562...	{asstw: staws, swats }  {iprst: spirt, trips }  {moost: smoot, tooms }  
+  563...	{esstt: stets }  {noost: snoot, toons }  {ooprs: roops, spoor }  {mnotu: muton, notum }  
+  564...	{ooprt: poort, troop }  
+  565...	{oopst: poots, stoop }  {knstu: knuts, stunk }  
+  566...	{norst: snort, trons }  {oorrt: rotor }  
+  567...	{oorst: roots, stoor }  
+  568...	{oprst: ports, strop }  
+  569...	{opsst: spots, stops }  
+  572...	{lssuu: sulus }  {msstu: smuts, stums }  
+  573...	{osstt: stots }  
+  574...	{pptuu: putup }  
+  575...	{orstw: strow, worts }  
+  576...	{osstw: stows, swots }  
+  579...	{sssuu: susus }  
+  609...	{abcder: braced, decarb }  
+  621...	{adeiln: delian, nailed }  
+  622...	{aahhnn: hannah }  {ddeenn: denned }  
+  624...	{aahlln: hallan, nallah }  
+  626...	{aailmn: animal, lamina }  
+  627...	{deeglr: gelder, redleg }  
+  628...	{aallmm: mallam }  
+  629...	{adeipr: diaper, repaid }  
+  630...	{ddeerr: redder }  {deeils: elides, sedile }  
+  631...	{deeinr: denier, reined }  
+  632...	{deeins: denies, seined }  
+  636...	{aaklot: atokal, lakota }  
+  638...	{aceprs: recaps, spacer }  
+  639...	{cceors: reccos, soccer }  
+  640...	{aammrr: marram }  {aahhww: hawhaw, wahwah }  
+  641...	{acerss: scares, seracs }  {deinns: dennis, sinned }  
+  642...	{eeflrt: reflet, telfer }  {deinos: edison, noside }  
+  645...	{aderrw: drawer, redraw, reward, warder }  
+  646...	{ceerst: secret, terces }  {deimst: demits, stimed }  
+  647...	{deiprs: redips, spider }  {deilsv: devils, slived }  
+  648...	{eellss: selles }  
+  649...	{ahirrs: harris, sirrah }  {deirrs: derris, sirred }  
+  652...	{eelpss: sleeps, speels }  {aelsst: salets, stelas }  {eennrt: rennet, tenner }  
+  655...	{eflorw: reflow, wolfer }  {deopst: depots, stoped }  
+  656...	{eelsst: sleets, steels }  {deorrt: dorter, retrod }  
+  657...	{einnst: sinnet, tennis }  {eilnsv: levins, snivel }  
+  658...	{eelstu: elutes, setule }  
+  660...	{eerrss: serres }  
+  661...	{eloort: looter, retool }  {deostv: devots, stoved }  
+  662...	{eerrtt: terret }  {ccssuu: succus }  
+  663...	{ennost: sonnet, tennos }  
+  664...	{eerssv: serves, sevres }  
+  666...	{enorss: serons, snores }  
+  669...	{aprsst: sparts, straps }  {ilppsu: pupils, slipup }  
+  670...	{iirrtt: tirrit }  
+  671...	{eorrst: retros, sorter }  
+  672...	{loopss: sloops, spools }  {mmoott: motmot, tomtom }  
+  674...	{noopss: snoops, spoons }  {llppuu: pullup }  
+  676...	{loosst: sloots, stools }  
+  677...	{iprsst: spirts, sprits, stirps, strips }  
+  683...	{oprsst: sports, strops }  
+  693...	{rssttu: struts, sturts }  
+  698...	{oowwww: wowwow }  {ttttuu: tuttut }  
+  714...	{ddeefii: deified }  
+  728...	{deefiir: deifier, reified }  
+  742...	{aeegnss: sagenes, senegas }  
+  747...	{deeilrv: deliver, reviled }  
+  751...	{eeemmss: sememes }  {aeepprr: repaper }  
+  753...	{deennst: dennets, stenned }  
+  758...	{eeiisst: seities }  
+  761...	{eeilrrv: reliver, reviler }  
+  762...	{aannruu: nauruan }  {deersst: dessert, tressed }  
+  771...	{eeirrvv: reviver }  
+  779...	{aoorrtt: rotator }  
+  877...	{deerssst: desserts, stressed }  
+  943...	{aaaallmmy: malayalam }  
+  994...	{aaoorrttv: rotavator }  

@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1652866466 source:d:\onedrive\desktop\dictionary codeblock\dictionary\anagramset.cpp
+	"AnagramSet.h"
+	<iostream>
+	<vector>
+
+1652841608 d:\onedrive\desktop\dictionary codeblock\dictionary\anagramset.h
+	<vector>
+	<iostream>
+	"LetterBag.h"
+
+1652841608 d:\onedrive\desktop\dictionary codeblock\dictionary\letterbag.h
+	<vector>
+	<iostream>
+
+1652867149 source:d:\onedrive\desktop\dictionary codeblock\dictionary\dictionary.cpp
+	"AnagramSet.h"
+	"Dictionary.h"
+	"LetterBag.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<iomanip>
+
+1652862333 d:\onedrive\desktop\dictionary codeblock\dictionary\dictionary.h
+	<vector>
+	<iostream>
+	"AnagramSet.h"
+	"LetterBag.h"
+	<fstream>
+
+1652859553 source:d:\onedrive\desktop\dictionary codeblock\dictionary\letterbag.cpp
+	"LetterBag.h"
+	<iostream>
+	<vector>
+
+1652866282 source:d:\onedrive\desktop\dictionary codeblock\dictionary\main.cpp
+	"Dictionary.h"
+	<iostream>
+	<iostream>
+	"AnagramSet.h"
+	"Dictionary.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+
+1652866466 source:d:\onedrive\desktop\d\anagramset.cpp
+	"AnagramSet.h"
+	<iostream>
+	<vector>
+
+1652841608 d:\onedrive\desktop\d\anagramset.h
+	<vector>
+	<iostream>
+	"LetterBag.h"
+
+1652841608 d:\onedrive\desktop\d\letterbag.h
+	<vector>
+	<iostream>
+
+1652905385 source:d:\onedrive\desktop\d\dictionary.cpp
+	"AnagramSet.h"
+	"Dictionary.h"
+	"LetterBag.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<iomanip>
+
+1652905798 d:\onedrive\desktop\d\dictionary.h
+	<vector>
+	<iostream>
+	"AnagramSet.h"
+	"LetterBag.h"
+	<fstream>
+
+1652859553 source:d:\onedrive\desktop\d\letterbag.cpp
+	"LetterBag.h"
+	<iostream>
+	<vector>
+
+1652905761 source:d:\onedrive\desktop\d\main.cpp
+	"Dictionary.h"
+	<iostream>
+	<iostream>
+	"AnagramSet.h"
+	"Dictionary.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+
+1652866466 source:d:\onedrive\desktop\cs20\dictionary\anagramset.cpp
+	"AnagramSet.h"
+	<iostream>
+	<vector>
+
+1652841608 d:\onedrive\desktop\cs20\dictionary\anagramset.h
+	<vector>
+	<iostream>
+	"LetterBag.h"
+
+1652841608 d:\onedrive\desktop\cs20\dictionary\letterbag.h
+	<vector>
+	<iostream>
+
+1652905385 source:d:\onedrive\desktop\cs20\dictionary\dictionary.cpp
+	"AnagramSet.h"
+	"Dictionary.h"
+	"LetterBag.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<iomanip>
+
+1652905798 d:\onedrive\desktop\cs20\dictionary\dictionary.h
+	<vector>
+	<iostream>
+	"AnagramSet.h"
+	"LetterBag.h"
+	<fstream>
+
+1652859553 source:d:\onedrive\desktop\cs20\dictionary\letterbag.cpp
+	"LetterBag.h"
+	<iostream>
+	<vector>
+
+1652905761 source:d:\onedrive\desktop\cs20\dictionary\main.cpp
+	"Dictionary.h"
+	<iostream>
+	<iostream>
+	"AnagramSet.h"
+	"Dictionary.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+
+1652866466 source:d:\onedrive\desktop\c++\cs20\dictionary\anagramset.cpp
+	"AnagramSet.h"
+	<iostream>
+	<vector>
+
+1669940658 d:\onedrive\desktop\c++\cs20\dictionary\anagramset.h
+	<vector>
+	<iostream>
+	"LetterBag.h"
+
+1652841608 d:\onedrive\desktop\c++\cs20\dictionary\letterbag.h
+	<vector>
+	<iostream>
+
+1652905385 source:d:\onedrive\desktop\c++\cs20\dictionary\dictionary.cpp
+	"AnagramSet.h"
+	"Dictionary.h"
+	"LetterBag.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<iomanip>
+
+1652905798 d:\onedrive\desktop\c++\cs20\dictionary\dictionary.h
+	<vector>
+	<iostream>
+	"AnagramSet.h"
+	"LetterBag.h"
+	<fstream>
+
+1652855953 source:d:\onedrive\desktop\c++\cs20\dictionary\letterbag.cpp
+	"LetterBag.h"
+	<iostream>
+	<vector>
+
+1652905761 source:d:\onedrive\desktop\c++\cs20\dictionary\main.cpp
+	"Dictionary.h"
+	<iostream>
+	<iostream>
+	"AnagramSet.h"
+	"Dictionary.h"
+	<iomanip>
+	<fstream>
+	<ctime>
+
